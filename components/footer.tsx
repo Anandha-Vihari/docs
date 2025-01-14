@@ -54,7 +54,7 @@ const Footer = () => {
         className="nx-flex nx-items-center"
         style={{ marginLeft: "8px", marginBottom: "4px" }}
       >
-        © Copyright 2023
+        © Copyright 2025
         <a
           href="https://spheron.network"
           target="_blank"
